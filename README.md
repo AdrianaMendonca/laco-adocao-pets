@@ -53,10 +53,62 @@ Foi desenvolvido um Design System com definição de cores, tipografia, componen
 
 [Visualizar projeto no Figma](https://www.figma.com/proto/5VeRDcs8VFbeAV9z1W82G1/LA%C3%87O-PLATAFORMA-DE-ADO%C3%87%C3%83O-DE-PETS?node-id=0-1&t=RDKoydVE5A390X8L-1)
 
-## Status do projeto
+## Status
 
 Projeto de interface e prototipagem concluído, com telas Desktop e Mobile e fluxos de navegação interativos.
 
----
+## Telas do projeto
+
+### 1. Versão Desktop
+
+**Página inicial**
+
+![Home Desktop](imagens/01-home-desktop.png)
+
+**Busca de animais**
+
+![Busca Desktop](imagens/02-busca-desktop.png)
+
+**Formulário de adoção**
+
+![Formulário Desktop](imagens/04-formulario-adocao-desktop.png)
+
+**Confirmação da adoção**
+
+![Confirmação Desktop](imagens/09-confirmacao-adocao-desktop%201.png)
+
+### 2. Versão Mobile
+
+**Página inicial**
+
+![Home Mobile](imagens/05-home-mobile%201.png)
+
+**Busca de animais**
+
+![Busca Mobile](imagens/06-busca-mobile%201.png)
+
+**Perfil do animal**
+
+![Perfil Mobile](imagens/07-perfil-mobile%201.png)
+
+**Menu de navegação**
+
+![Menu Mobile](imagens/08-laco-menu-mobile%201.png)
+
+**Confirmação**
+
+![Confirmação Mobile](imagens/10-confirmacao-adocao-mobile%201.png)
+
+### 3. Página Como Funciona
+
+![Como Funciona Desktop](imagens/laco-como-funciona-desktop%201.png)
+
+![Como Funciona Mobile](imagens/09-laco-como-funciona-mobile%201.png)
+
+
+
+
+
+
 
 Desenvolvido como projeto de portfólio na área de UI/UX Design.
