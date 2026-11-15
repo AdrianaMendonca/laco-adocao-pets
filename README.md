@@ -65,6 +65,10 @@ Projeto de interface e prototipagem concluído, com telas Desktop e Mobile e flu
 
 ![Home Desktop](imagens/01-home-desktop.png)
 
+## Como funciona **
+
+![Como Funciona Desktop](imagens/laco-como-funciona-desktop%201.png)
+
 **Busca de animais**
 
 ![Busca Desktop](imagens/02-busca-desktop.png)
@@ -99,9 +103,7 @@ Projeto de interface e prototipagem concluído, com telas Desktop e Mobile e flu
 
 ![Confirmação Mobile](imagens/10-confirmacao-adocao-mobile%201.png)
 
-### 3. Página Como Funciona
-
-![Como Funciona Desktop](imagens/laco-como-funciona-desktop%201.png)
+### Página Como Funciona **
 
 ![Como Funciona Mobile](imagens/09-laco-como-funciona-mobile%201.png)
 
