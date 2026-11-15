@@ -51,7 +51,7 @@ Foi desenvolvido um Design System com definição de cores, tipografia, componen
 
 ## Protótipo interativo
 
-[Visualizar projeto no Figma](COLE_AQUI_O_LINK_DO_FIGMA)
+[Visualizar projeto no Figma](https://www.figma.com/proto/5VeRDcs8VFbeAV9z1W82G1/LA%C3%87O-PLATAFORMA-DE-ADO%C3%87%C3%83O-DE-PETS?node-id=0-1&t=RDKoydVE5A390X8L-1)
 
 ## Status do projeto
 
